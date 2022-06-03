@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+  <user id="1">
+    <username>admin</username>
+    <password>admin123</password>
+    <role>Administrator</role>
+    <firstname>Frane</firstname>
+    <lastname>Golem</lastname>
+  </user>
+  <user id="2">
+    <username>user</username>
+    <password>user123</password>
+    <role>User</role>
+    <firstname>Marko</firstname>
+    <lastname>Markic</lastname>
+  </user>
+  <user id="3">
+    <username>test</username>
+    <password>test123</password>
+    <role>User</role>
+    <firstname>test ime</firstname>
+    <lastname>test prezime</lastname>
+  </user>
+</users>
